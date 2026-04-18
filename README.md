@@ -40,4 +40,5 @@ Building intelligent biomedical systems that combine **AI + engineering + clinic
 👉 [Click here to view/download CV](Hasaan_Khatab_CV.pdf)
 ## 📊 Academic Record
 My semester-wise academic performance in Biomedical Engineering:
-📄 (Hasaan_Khatab_Semester_Results.pdf)
+ 📄 Download Full Results
+👉 [Click here to view/download Semester Results PDF](Hasaan_Khatab_Semester_Results.pdf)
