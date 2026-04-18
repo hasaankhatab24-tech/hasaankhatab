@@ -40,3 +40,5 @@ Medical Device Prototyping | Sensor Integration
 🔗 LinkedIn: linkedin.com/in/hasaan-khatab-bb2750323  
 ## 🎯 Vision
 Building intelligent biomedical systems that combine **AI + engineering + clinical science** to improve global healthcare.
+## 📄 Curriculum Vitae
+👉 Download my CV: [Click here](Hasaan_Khatab_CV.pdf)
