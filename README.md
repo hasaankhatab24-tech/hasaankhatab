@@ -1,10 +1,6 @@
 # 👋 Hi, I'm Hasaan Khatab
 ## 🧬 Biomedical Engineer | IEEE EMBS Chairperson | AI in Healthcare | Medical Device Innovation
 Biomedical Engineerig undergraduate focused on **AI-driven healthcare systems, biomedical signal processing, and medical device innovation**. Passionate about translating research into real-world clinical engineering solutions.
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaankhatab24&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaankhatab24&layout=compact&theme=tokyonight)
 ## 🚀 About Me
 - 🎓 Biomedical Engineering Undergraduate (HITEC University)  
 - 🧠 Chairperson – IEEE EMBS  
@@ -40,5 +36,8 @@ Medical Device Prototyping | Sensor Integration
 🔗 LinkedIn: linkedin.com/in/hasaan-khatab-bb2750323  
 ## 🎯 Vision
 Building intelligent biomedical systems that combine **AI + engineering + clinical science** to improve global healthcare.
-## 📄 Curriculum Vitae
-👉 Download my CV: [Click here](Hasaan_Khatab_CV.pdf)
+## 📄 Download CV
+👉 [Click here to view/download CV](Hasaan_Khatab_CV.pdf)
+## 📊 Academic Record
+My semester-wise academic performance in Biomedical Engineering:
+📄 [View Semester Results (PDF)](Hasaan_Khatab_Semester_Results.pdf)
