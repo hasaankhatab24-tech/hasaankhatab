@@ -1,2 +1,42 @@
-# hasaankhatab
-Personal GitHub profile of a Biomedical Engineering student focused on AI in healthcare, medical device innovation, and biomedical research.
+# 👋 Hi, I'm Hasaan Khatab
+## 🧬 Biomedical Engineer | IEEE EMBS Chairperson | AI in Healthcare | Medical Device Innovation
+Biomedical Engineerig undergraduate focused on **AI-driven healthcare systems, biomedical signal processing, and medical device innovation**. Passionate about translating research into real-world clinical engineering solutions.
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hasaankhatab24&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasaankhatab24&layout=compact&theme=tokyonight)
+## 🚀 About Me
+- 🎓 Biomedical Engineering Undergraduate (HITEC University)  
+- 🧠 Chairperson – IEEE EMBS  
+- 🤖 AI in Healthcare Enthusiast  
+- 🔬 Research-focused Biomedical Engineer  
+- 🏥 Medical Device Innovation & Development  
+- ⚙️ Embedded Systems & Signal Processing  
+## 🛠️ Skills
+Python | C++ | MATLAB | Arduino | PCB Design | SolidWorks | AutoCAD  
+Biomedical Signal Processing | Embedded Systems | Medical Instrumentation  
+Medical Device Prototyping | Sensor Integration  
+## 🧠 Research Interests
+- AI in Healthcare Systems  
+- Biomedical Signal Processing  
+- Medical Robotics & Rehabilitation Engineering  
+- Wearable Health Technologies  
+- Biomedical Data Analysis  
+- Medical Device Innovation  
+## 🚀 Featured Projects
+🫁 Smart Jacket – COPD detection using sensors + MATLAB  
+🤖 EMG/EEG Robotic Arm – Neural-controlled rehabilitation system  
+🦴 Ultrasound Bone Healing Device – Tissue regeneration system  
+📊 IMU Joint Angle Analysis – Motion tracking system  
+🧬 CRISPR Biomedical Research – Gene editing study  
+## 🏆 Achievements
+🥇 National Winner – Smart Jacket (Zindagi Prize)  
+🥇 1st Prize – EMG/EEG Robotic Arm  
+🏅 Department Winner – Ultrasound Bone Healing System  
+⚡ Speed Wiring Competition Winner  
+📄 Research Paper Accepted – CRISPR Study  
+## 🌍 Contact
+📧 hasaankhatab24@gmail.com  
+🔗 LinkedIn: linkedin.com/in/hasaan-khatab-bb2750323  
+## 🎯 Vision
+Building intelligent biomedical systems that combine **AI + engineering + clinical science** to improve global healthcare.
